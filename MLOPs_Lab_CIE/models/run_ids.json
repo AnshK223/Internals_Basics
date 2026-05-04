@@ -1,0 +1,9 @@
+{
+  "run_ids": {
+    "LinearRegression": "a7d726fec125474e831932ebc74ea0c1",
+    "GradientBoosting": "b6b14c5d65794859b785389ee195cb18"
+  },
+  "best_model": "LinearRegression",
+  "best_mae": 0.8868,
+  "best_run_id": "a7d726fec125474e831932ebc74ea0c1"
+}

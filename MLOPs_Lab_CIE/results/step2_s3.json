@@ -1,0 +1,12 @@
+{
+  "image_name": "cropsense-predictor",
+  "image_tag": "v1",
+  "base_image": "python:3.11-slim",
+  "test_input": {
+    "soil_moisture_pct": 25.1,
+    "crop_type_index": 3,
+    "field_size_hectares": 16.5,
+    "temperature_c": 28.7
+  },
+  "prediction": 7.9488
+}
